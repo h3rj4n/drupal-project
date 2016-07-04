@@ -11,6 +11,10 @@
     ],
     "repositories": [
         {
+            "type": "vcs",
+            "url": "https://github.com/h3rj4n/composer-patches.git"
+        },
+        {
             "type": "composer",
             "url": "https://packagist.drupal-composer.org"
         }
